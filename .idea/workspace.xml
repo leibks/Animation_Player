@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hw09:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/cs3500/animator/view/InteractiveView.java" description="  @Override&#10;  public boolean getLoopSet() {&#10;    re..." line="493" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb1e76b7-2708-416b-90de-3be13d689718" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hw07$InteractiveViewTest.coverage" NAME="InteractiveViewTest Coverage Results" MODIFIED="1510929848588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest_testDeleteShape.coverage" NAME="BasicModelTest.testDeleteShape Coverage Results" MODIFIED="1508604050585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$BasicModelTest_testGetTimeUseInfor.coverage" NAME="BasicModelTest.testGetTimeUseInfor Coverage Results" MODIFIED="1509742438474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$EasyAnimator.coverage" NAME="EasyAnimator Coverage Results" MODIFIED="1509724231201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeScaleTest_testDoAnimationForRectangle.coverage" NAME="AbstractAnimationTest$ChangeScaleTest.testDoAnimationForRectangle Coverage Results" MODIFIED="1509754677774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$AbstractShapeTest_OvalTest_and_1_more.coverage" NAME="AbstractShapeTest$OvalTest and 1 more Coverage Results" MODIFIED="1510927686307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_MoveTest_testDoAnimationForRectangle.coverage" NAME="AbstractAnimationTest$MoveTest.testDoAnimationForRectangle Coverage Results" MODIFIED="1509748320185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$BasicModelTest.coverage" NAME="BasicModelTest Coverage Results" MODIFIED="1510927698194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractShapeTest_OvalTest_testGetHeight.coverage" NAME="AbstractShapeTest$OvalTest.testGetHeight Coverage Results" MODIFIED="1509742155159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractShapeTest_OvalTest_and_1_more.coverage" NAME="AbstractShapeTest$OvalTest and 1 more Coverage Results" MODIFIED="1509812996724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$ColorInfoTest.coverage" NAME="ColorInfoTest Coverage Results" MODIFIED="1508631127856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$ControllerTest.coverage" NAME="ControllerTest Coverage Results" MODIFIED="1510932950054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$ViewCreatorTest.coverage" NAME="ViewCreatorTest Coverage Results" MODIFIED="1510928197920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$ColorInfoTest_testGetColorMethod.coverage" NAME="ColorInfoTest.testGetColorMethod Coverage Results" MODIFIED="1509739983714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractShapeTest_RectangleTest_testGetHeight.coverage" NAME="AbstractShapeTest$RectangleTest.testGetHeight Coverage Results" MODIFIED="1509742039027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest_invalidAddAnimationTime.coverage" NAME="BasicModelTest.invalidAddAnimationTime Coverage Results" MODIFIED="1508562346863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CS3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeColorTest_testDoAnimationForRectangle.coverage" NAME="AbstractAnimationTest$ChangeColorTest.testDoAnimationForRectangle Coverage Results" MODIFIED="1509753201085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest_invalidAddAnimationOverlap.coverage" NAME="BasicModelTest.invalidAddAnimationOverlap Coverage Results" MODIFIED="1508562514539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CS3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest_invalidAddAnimationOverlap2.coverage" NAME="BasicModelTest.invalidAddAnimationOverlap2 Coverage Results" MODIFIED="1508562574295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CS3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$AbstractAnimationTest_ChangeColorTest_and_2_more.coverage" NAME="AbstractAnimationTest$ChangeColorTest and 2 more Coverage Results" MODIFIED="1508631074138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$OutputFileTest.coverage" NAME="OutputFileTest Coverage Results" MODIFIED="1509753674055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeColorTest_and_2_more.coverage" NAME="AbstractAnimationTest$ChangeColorTest and 2 more Coverage Results" MODIFIED="1509812470900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$ColorInfoTest.coverage" NAME="ColorInfoTest Coverage Results" MODIFIED="1509739816424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$IViewTest_testSVGOutputLoop.coverage" NAME="IViewTest.testSVGOutputLoop Coverage Results" MODIFIED="1510932702203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest_getAnimationState.coverage" NAME="BasicModelTest.getAnimationState Coverage Results" MODIFIED="1508562809589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CS3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$BasicModelTest.coverage" NAME="BasicModelTest Coverage Results" MODIFIED="1509743760509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeColorTest_testGetMoveFrom.coverage" NAME="AbstractAnimationTest$ChangeColorTest.testGetMoveFrom Coverage Results" MODIFIED="1509740641796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$AbstractAnimationTest_ChangeColorTest_and_2_more.coverage" NAME="AbstractAnimationTest$ChangeColorTest and 2 more Coverage Results" MODIFIED="1510927675261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$AbstractShapeTest_OvalTest_and_1_more.coverage" NAME="AbstractShapeTest$OvalTest and 1 more Coverage Results" MODIFIED="1508631085046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$InteractiveViewTest_testGetters.coverage" NAME="InteractiveViewTest.testGetters Coverage Results" MODIFIED="1510929822155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_MoveTest_testDoAnimationForOval.coverage" NAME="AbstractAnimationTest$MoveTest.testDoAnimationForOval Coverage Results" MODIFIED="1509748297742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_MoveTest_testGetMoveFrom.coverage" NAME="AbstractAnimationTest$MoveTest.testGetMoveFrom Coverage Results" MODIFIED="1509740105865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$Position2DTest.coverage" NAME="Position2DTest Coverage Results" MODIFIED="1510927716206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$AnimationPanelTest.coverage" NAME="AnimationPanelTest Coverage Results" MODIFIED="1510929969715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_MoveTest_testGetMoveTo.coverage" NAME="AbstractAnimationTest$MoveTest.testGetMoveTo Coverage Results" MODIFIED="1509739640794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$AbstractAnimationTest_ChangeScaleTest.coverage" NAME="AbstractAnimationTest$ChangeScaleTest Coverage Results" MODIFIED="1508546695237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CS3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$ColorInfoTest.coverage" NAME="ColorInfoTest Coverage Results" MODIFIED="1510927707827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractShapeTest_OvalTest_testGetWidth.coverage" NAME="AbstractShapeTest$OvalTest.testGetWidth Coverage Results" MODIFIED="1509742170150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$InteractiveAnimationPanelTest.coverage" NAME="InteractiveAnimationPanelTest Coverage Results" MODIFIED="1510926933665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeScaleTest_testGetShapeType.coverage" NAME="AbstractAnimationTest$ChangeScaleTest.testGetShapeType Coverage Results" MODIFIED="1509741750980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeScaleTest_testDoAnimationForOval.coverage" NAME="AbstractAnimationTest$ChangeScaleTest.testDoAnimationForOval Coverage Results" MODIFIED="1509754583585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest__1_.coverage" NAME="BasicModelTest (1) Coverage Results" MODIFIED="1508620247336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$EasyAnimator.coverage" NAME="EasyAnimator Coverage Results" MODIFIED="1510936495223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractShapeTest_RectangleTest_testGetWidth.coverage" NAME="AbstractShapeTest$RectangleTest.testGetWidth Coverage Results" MODIFIED="1509742053059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest.coverage" NAME="BasicModelTest Coverage Results" MODIFIED="1508631098257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$Position2DTest.coverage" NAME="Position2DTest Coverage Results" MODIFIED="1508631134927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeColorTest_testDoAnimationForOval.coverage" NAME="AbstractAnimationTest$ChangeColorTest.testDoAnimationForOval Coverage Results" MODIFIED="1509753216357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeColorTest_testGetMoveTo.coverage" NAME="AbstractAnimationTest$ChangeColorTest.testGetMoveTo Coverage Results" MODIFIED="1509740614875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$ControllerTest_testActionPerformed.coverage" NAME="ControllerTest.testActionPerformed Coverage Results" MODIFIED="1510939991593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$ReadOnlyModelTest.coverage" NAME="ReadOnlyModelTest Coverage Results" MODIFIED="1510927607848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw05$BasicModelTest_addAnimation.coverage" NAME="BasicModelTest.addAnimation Coverage Results" MODIFIED="1508559390801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CS3500.hw05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw07$IViewTest.coverage" NAME="IViewTest Coverage Results" MODIFIED="1510932727118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hw06$AbstractAnimationTest_ChangeScaleTest_testGetMoveFrom.coverage" NAME="AbstractAnimationTest$ChangeScaleTest.testGetMoveFrom Coverage Results" MODIFIED="1509741571512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cs3500.animator.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hw07" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="AbstractAnimationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/cs3500/animator/model/AbstractAnimationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractShape.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/AbstractShape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InteractiveView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/view/InteractiveView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13695">
+              <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>!</find>
+      <find>Sys</find>
+      <find>ms</find>
+      <find>System</find>
+      <find>??</find>
+      <find>ControllerOperations</find>
+      <find>animationPanel</find>
+      <find>B</find>
+      <find>HII</find>
+      <find>false</find>
+      <find>ellipse</find>
+      <find>chooseAllItems</find>
+      <find>tempo</find>
+      <find>setVisible</find>
+      <find>setActionCommand</find>
+      <find>readF</find>
+      <find>getShape</find>
+      <find>setS</find>
+      <find>checkAnd</find>
+      <find>setBac</find>
+      <find>OvalInfo</find>
+      <find>getLayer</find>
+      <find>readRectangleInfo</find>
+      <find>orderByLayers</find>
+      <find>changeBackground</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/ReadOnlyModel.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/Utils.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/IViews.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/TextView.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/ViewCreator.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/VisualAnimationView.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/view/TestProvider.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/SVGView.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/ModelAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/provider/view/VisualAnimationView.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/provider/view/AnimationPanel.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/provider/model/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/Posn.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/AnimationPanel.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/controller/ControllerVisualAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/controller/ControllerHybridAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/provider/model/README.txt" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/ShapeAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/AnimationsAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/adapter/ShapeAdapter.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/view/ProviderViewsTest.java" />
+        <option value="$PROJECT_DIR$/test/ProviderViewsTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/ProviderViewsTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/TestProvider.java" />
+        <option value="$PROJECT_DIR$/resources/README.txt" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/adapter/AnimationsAdapter.java" />
+        <option value="$PROJECT_DIR$/resources/Modify.txt" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/adapter/ControllerHybridAdapter.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/view/IViewTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/view/ViewCreatorTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/view/InteractiveViewTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/view/InteractiveAnimationPanelTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/view/AnimationPanelTest.java" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/controller/ControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/InteractiveAnimationPanel.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/ChangeColorAnimation.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/ChangeScaleAnimation.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/MoveAnimation.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/ViewInteractive.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/controller/InteractiveAnimatorController.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/AnimationFileReader.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/BasicModel.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/TweenModelBuilder.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/DisplayPanel.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/AbstractShape.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/model/Oval.java" />
+        <option value="$PROJECT_DIR$/resources/JarTest_for_Views.txt" />
+        <option value="$PROJECT_DIR$/test/cs3500/animator/model/Position2DTest.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/animator/view/InteractiveView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="670" />
+    <option name="y" value="9" />
+    <option name="width" value="1089" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType ProjectPane="true" />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw09" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw09_why" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cs3500.animator.view" />
+      <recent name="cs3500.animator.model" />
+      <recent name="cs3500.animator.controller" />
+      <recent name="CS3500.hw05" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cs3500.animator" />
+      <recent name="cs3500.animator.view" />
+      <recent name="cs3500.animator.controller" />
+      <recent name="cs3500.animator.model" />
+      <recent name="cs3500.hw05" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Northeastern_University\Fall_2017\CS3500_Objected-Oriented_Design\hw06\src\cs3500\animator\resources" />
+      <recent name="$PROJECT_DIR$/src/cs3500/animator/view" />
+      <recent name="E:\Northeastern_University\Fall_2017\CS3500_Objected-Oriented_Design\hw06\src\cs3500\animator\model" />
+      <recent name="E:\Northeastern_University\Fall_2017\CS3500_Objected-Oriented_Design\hw06\src\cs3500\hw05\animator\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EasyAnimator">
+    <configuration name="EasyAnimator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cs3500.animator.EasyAnimator" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-if buildings.txt -iv interactive -o out -speed 15" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hw09" />
+      <envs />
+    </configuration>
+    <configuration name="IViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="hw08" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cs3500.animator.view" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animator.view.IViewTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Position2DTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animator.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="hw09" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cs3500.animator.model" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animator.model.Position2DTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestProvider" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="hw08" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cs3500.animator" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animator.TestProvider" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ViewCreatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="hw08" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cs3500.animator.view" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animator.view.ViewCreatorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hw05" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.EasyAnimator" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.IViewTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ViewCreatorTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestProvider" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Position2DTest.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.EasyAnimator" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Position2DTest.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestProvider" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ViewCreatorTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.IViewTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb1e76b7-2708-416b-90de-3be13d689718" name="Default" comment="" />
+      <created>1508298261557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508298261557</updated>
+      <workItem from="1508298263393" duration="46000" />
+      <workItem from="1508298337400" duration="22000" />
+      <workItem from="1508298383883" duration="628000" />
+      <workItem from="1508299402018" duration="2000" />
+      <workItem from="1508299426684" duration="3481000" />
+      <workItem from="1508329525264" duration="1360000" />
+      <workItem from="1508360048308" duration="5715000" />
+      <workItem from="1508365832007" duration="54000" />
+      <workItem from="1508365905316" duration="58000" />
+      <workItem from="1508365970570" duration="117000" />
+      <workItem from="1508366104230" duration="264000" />
+      <workItem from="1508366377998" duration="909000" />
+      <workItem from="1508370593547" duration="4404000" />
+      <workItem from="1508377392202" duration="3788000" />
+      <workItem from="1508381269645" duration="602000" />
+      <workItem from="1508381886597" duration="2959000" />
+      <workItem from="1508385373728" duration="2997000" />
+      <workItem from="1508388454990" duration="33000" />
+      <workItem from="1508415418653" duration="3862000" />
+      <workItem from="1508437943529" duration="3361000" />
+      <workItem from="1508441347788" duration="5500000" />
+      <workItem from="1508447819130" duration="909000" />
+      <workItem from="1508449989761" duration="1883000" />
+      <workItem from="1508451902799" duration="28000" />
+      <workItem from="1508459323680" duration="495000" />
+      <workItem from="1508459876248" duration="2550000" />
+      <workItem from="1508496372867" duration="9342000" />
+      <workItem from="1508529156554" duration="234000" />
+      <workItem from="1508529446748" duration="295000" />
+      <workItem from="1508529758254" duration="565000" />
+      <workItem from="1508530350064" duration="1357000" />
+      <workItem from="1508531739427" duration="25000" />
+      <workItem from="1508531793375" duration="399000" />
+      <workItem from="1508532205172" duration="147000" />
+      <workItem from="1508532369790" duration="106000" />
+      <workItem from="1508532506180" duration="1590000" />
+      <workItem from="1508535176768" duration="24095000" />
+      <workItem from="1508595384794" duration="585000" />
+      <workItem from="1508596076905" duration="30000" />
+      <workItem from="1508596116832" duration="1004000" />
+      <workItem from="1508597134429" duration="2322000" />
+      <workItem from="1508599477644" duration="2411000" />
+      <workItem from="1508604467052" duration="3000" />
+      <workItem from="1508604509695" duration="4163000" />
+      <workItem from="1508618614457" duration="1415000" />
+      <workItem from="1508620218008" duration="9737000" />
+      <workItem from="1508630219746" duration="1097000" />
+      <workItem from="1508632459956" duration="259000" />
+      <workItem from="1508811390820" duration="43000" />
+      <workItem from="1509112329552" duration="6000" />
+      <workItem from="1509140473354" duration="3000" />
+      <workItem from="1509327725958" duration="96000" />
+      <workItem from="1509327830771" duration="25000" />
+      <workItem from="1509418709150" duration="202000" />
+      <workItem from="1509419236350" duration="1026000" />
+      <workItem from="1509420564852" duration="3271000" />
+      <workItem from="1509461847510" duration="48000" />
+      <workItem from="1509463342466" duration="152000" />
+      <workItem from="1509477880987" duration="515000" />
+      <workItem from="1509478497298" duration="371000" />
+      <workItem from="1509478928256" duration="418000" />
+      <workItem from="1509480064049" duration="84000" />
+      <workItem from="1509480572358" duration="736000" />
+      <workItem from="1509481617100" duration="107000" />
+      <workItem from="1509481813239" duration="71000" />
+      <workItem from="1509481991671" duration="708000" />
+      <workItem from="1509488133033" duration="4489000" />
+      <workItem from="1509492710160" duration="3826000" />
+      <workItem from="1509496868217" duration="8722000" />
+      <workItem from="1509507354353" duration="169000" />
+      <workItem from="1509508058444" duration="10000" />
+      <workItem from="1509567828325" duration="2070000" />
+      <workItem from="1509570736443" duration="1585000" />
+      <workItem from="1509572524494" duration="9670000" />
+      <workItem from="1509649736872" duration="71000" />
+      <workItem from="1509650051967" duration="277000" />
+      <workItem from="1509650363826" duration="540000" />
+      <workItem from="1509650947535" duration="21000" />
+      <workItem from="1509651024359" duration="7000" />
+      <workItem from="1509651042348" duration="136000" />
+      <workItem from="1509651208649" duration="100000" />
+      <workItem from="1509651353522" duration="18000" />
+      <workItem from="1509651386401" duration="2035000" />
+      <workItem from="1509653539665" duration="768000" />
+      <workItem from="1509659209852" duration="6918000" />
+      <workItem from="1509669070996" duration="5703000" />
+      <workItem from="1509679043938" duration="4324000" />
+      <workItem from="1509685353382" duration="1562000" />
+      <workItem from="1509686948169" duration="169000" />
+      <workItem from="1509715009804" duration="13531000" />
+      <workItem from="1509730556190" duration="25610000" />
+      <workItem from="1509757733495" duration="1424000" />
+      <workItem from="1509769541007" duration="708000" />
+      <workItem from="1509810398641" duration="7435000" />
+      <workItem from="1509819300720" duration="640000" />
+      <workItem from="1509822259008" duration="861000" />
+      <workItem from="1509830048306" duration="1933000" />
+      <workItem from="1510087025037" duration="40000" />
+      <workItem from="1510263252058" duration="1196000" />
+      <workItem from="1510276385658" duration="6328000" />
+      <workItem from="1510282963808" duration="26000" />
+      <workItem from="1510283730471" duration="383000" />
+      <workItem from="1510349271836" duration="1031000" />
+      <workItem from="1510373364482" duration="2096000" />
+      <workItem from="1510422483563" duration="10499000" />
+      <workItem from="1510446891157" duration="4304000" />
+      <workItem from="1510460864309" duration="13000" />
+      <workItem from="1510500712539" duration="1298000" />
+      <workItem from="1510519261209" duration="19000" />
+      <workItem from="1510616753485" duration="1840000" />
+      <workItem from="1510621307390" duration="13858000" />
+      <workItem from="1510667651969" duration="5993000" />
+      <workItem from="1510682832274" duration="15683000" />
+      <workItem from="1510703236531" duration="12930000" />
+      <workItem from="1510752493593" duration="12123000" />
+      <workItem from="1510784364088" duration="10660000" />
+      <workItem from="1510796451013" duration="8438000" />
+      <workItem from="1510805270154" duration="1868000" />
+      <workItem from="1510844535337" duration="4930000" />
+      <workItem from="1510853519542" duration="2131000" />
+      <workItem from="1510855663969" duration="4000" />
+      <workItem from="1510878382236" duration="15979000" />
+      <workItem from="1510923242285" duration="15609000" />
+      <workItem from="1510950481823" duration="7184000" />
+      <workItem from="1510961494104" duration="9539000" />
+      <workItem from="1511039042461" duration="260000" />
+      <workItem from="1511045177446" duration="5483000" />
+      <workItem from="1511200357082" duration="1324000" />
+      <workItem from="1511201831031" duration="137000" />
+      <workItem from="1511220507321" duration="790000" />
+      <workItem from="1511223527817" duration="5701000" />
+      <workItem from="1511274098914" duration="2840000" />
+      <workItem from="1511290338551" duration="668000" />
+      <workItem from="1511621696675" duration="952000" />
+      <workItem from="1511818284543" duration="174000" />
+      <workItem from="1511879053845" duration="790000" />
+      <workItem from="1511901238388" duration="1267000" />
+      <workItem from="1511904495311" duration="1448000" />
+      <workItem from="1511905979222" duration="163000" />
+      <workItem from="1511913032623" duration="11345000" />
+      <workItem from="1511964879841" duration="7738000" />
+      <workItem from="1511995477545" duration="10325000" />
+      <workItem from="1512014739148" duration="866000" />
+      <workItem from="1512019717691" duration="973000" />
+      <workItem from="1512061546583" duration="799000" />
+      <workItem from="1512072619800" duration="8205000" />
+      <workItem from="1512091668517" duration="8599000" />
+      <workItem from="1512140672909" duration="593000" />
+      <workItem from="1512151705970" duration="6088000" />
+      <workItem from="1512167282977" duration="3834000" />
+      <workItem from="1512182236024" duration="5907000" />
+      <workItem from="1512232677340" duration="8970000" />
+      <workItem from="1512312503158" duration="16291000" />
+      <workItem from="1512400035776" duration="793000" />
+      <workItem from="1512421419621" duration="6557000" />
+      <workItem from="1512492867006" duration="1818000" />
+      <workItem from="1512506736108" duration="1580000" />
+      <workItem from="1512848996002" duration="10339000" />
+      <workItem from="1512860484464" duration="5595000" />
+      <workItem from="1512866328729" duration="5457000" />
+      <workItem from="1512916148288" duration="2603000" />
+      <workItem from="1512919034107" duration="859000" />
+      <workItem from="1512964319923" duration="489000" />
+      <workItem from="1513008252378" duration="7142000" />
+      <workItem from="1513015422596" duration="2370000" />
+      <workItem from="1513018898007" duration="165000" />
+      <workItem from="1513026548603" duration="9149000" />
+      <workItem from="1513038515983" duration="2936000" />
+      <workItem from="1513042536136" duration="2630000" />
+      <workItem from="1513046382999" duration="1988000" />
+      <workItem from="1513120413209" duration="1657000" />
+      <workItem from="1513126038722" duration="234000" />
+      <workItem from="1513126436952" duration="739000" />
+      <workItem from="1513196388528" duration="4065000" />
+      <workItem from="1519431904317" duration="594000" />
+      <workItem from="1519436709050" duration="609000" />
+      <workItem from="1520010992294" duration="681000" />
+      <workItem from="1521211338822" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InteractiveAnimationPanelTest - 2017.12.04 at 16h 27m 37s.xml">
+      <configuration name="InteractiveAnimationPanelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InteractiveViewTest - 2017.12.04 at 16h 27m 59s.xml">
+      <configuration name="InteractiveViewTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InteractiveViewTest - 2017.12.04 at 16h 28m 46s.xml">
+      <configuration name="InteractiveViewTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InteractiveViewTest - 2017.12.04 at 16h 29m 27s.xml">
+      <configuration name="InteractiveViewTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Position2DTest - 2017.12.04 at 16h 27m 25s.xml">
+      <configuration name="Position2DTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Position2DTest_test - 2017.12.11 at 18h 30m 47s.xml">
+      <configuration name="Position2DTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Position2DTest_test - 2017.12.11 at 18h 32m 26s.xml">
+      <configuration name="Position2DTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadOnlyModelTest - 2017.12.04 at 16h 27m 29s.xml">
+      <configuration name="ReadOnlyModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProvider - 2017.12.04 at 16h 29m 45s.xml">
+      <configuration name="TestProvider" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ViewCreatorTest - 2017.12.04 at 16h 29m 39s.xml">
+      <configuration name="ViewCreatorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="575065000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24407583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22037914" sideWeight="0.5107991" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11018957" sideWeight="0.48920086" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22516198" sideWeight="0.48773006" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297609" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4888889" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3763499" sideWeight="0.5122699" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15402843" sideWeight="0.49784017" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.51111114" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29265404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22037914" sideWeight="0.5107991" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297609" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4888889" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24407583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33412322" sideWeight="0.49784017" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.48920086" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.51111114" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3363931" sideWeight="0.48773006" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29265404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3763499" sideWeight="0.5122699" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/Position2DTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/BasicModelTest.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/model/Rectangle.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/BasicModelTest.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/view/AnimationPanel.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/InteractiveAnimationPanelTest.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/InteractiveAnimationPanelTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/ReadOnlyModelTest.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/IViewTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/ViewCreatorTest.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/adapter/ControllerHybridAdapter.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/AnimationPanelTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/view/AnimationPanel.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/BasicModelTest.java</url>
+          <line>127</line>
+          <properties class="cs3500.animator.model.BasicModelTest" method="testDeleteShape">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/BasicModelTest.java</url>
+          <line>115</line>
+          <properties class="cs3500.animator.model.BasicModelTest" method="invalidAddShape">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/BasicModelTest.java</url>
+          <line>43</line>
+          <properties class="cs3500.animator.model.BasicModelTest" method="testGetShapesInfor">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/AbstractShapeTest.java</url>
+          <line>125</line>
+          <properties class="cs3500.animator.model.AbstractShapeTest.OvalTest" method="illegalType">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java</url>
+          <line>28</line>
+          <properties class="cs3500.animator.EasyAnimator" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/AbstractAnimationTest.java</url>
+          <line>191</line>
+          <properties class="cs3500.animator.model.AbstractAnimationTest.ChangeColorTest" method="testGetMoveTo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/AbstractAnimationTest.java</url>
+          <line>371</line>
+          <properties class="cs3500.animator.model.AbstractAnimationTest.ChangeScaleTest" method="testDoAnimationForRectangle">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/InteractiveAnimationPanelTest.java</url>
+          <line>112</line>
+          <properties class="cs3500.animator.view.InteractiveAnimationPanelTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/InteractiveAnimationPanelTest.java</url>
+          <line>101</line>
+          <properties class="cs3500.animator.view.InteractiveAnimationPanelTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/model/ReadOnlyModelTest.java</url>
+          <line>114</line>
+          <properties class="cs3500.animator.model.ReadOnlyModelTest" method="testAddShape">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/ViewCreatorTest.java</url>
+          <line>39</line>
+          <properties class="cs3500.animator.view.ViewCreatorTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/IViewTest.java</url>
+          <line>77</line>
+          <properties class="cs3500.animator.view.IViewTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/cs3500/animator/view/IViewTest.java</url>
+          <line>126</line>
+          <properties class="cs3500.animator.view.IViewTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/provider/model/Shapes.java</url>
+          <line>26</line>
+          <properties class="cs3500.animator.provider.model.Shapes" method="getState">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="59" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/cs3500/animator/model/AbstractAnimationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/AbstractShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/view/InteractiveView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/cs3500/animator/model/AbstractAnimationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/view/InteractiveView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13695">
+          <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/AbstractShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>hw09:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hw09</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

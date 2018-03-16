@@ -1,0 +1,46 @@
+
+package cs3500.hw04;
+
+import cs3500.hw02.Card;
+import cs3500.hw02.FreecellModel;
+import cs3500.hw02.FreecellOperations;
+
+/**
+ * The class is a factory class, and define a public enum GameType with two possible values
+ * SINGLEMOVE and MULTIMOVE. It offers a static factory method create(GameType type)
+ * that returns either a FreecellModel or an object of your multi-card-move model,
+ * depending on the value of the parameter.
+ */
+public class FreecellModelCreator {
+
+  /**
+   * The Type for different possible values: SINGLEMOVE and MULTIMOVE.
+   * It helps us to judge to use the multiple cards move or
+   * use the single card move in different model.
+   */
+  public enum GameType  {
+    SINGLEMOVE, MULTIMOVE;
+  }
+
+
+  /**
+   * A static factory method create(GameType type)
+   * that returns either a FreecellModel or an object of your multi-card-move model,
+   * depending on the value of the parameter.
+   * @param type the given game model type to judge move way
+   * @return the freecell model to use for the game
+   * @throws IllegalArgumentException if the given type is not valid
+   */
+  public static FreecellOperations<Card> create(GameType type) {
+    if (type == GameType.SINGLEMOVE ) {
+      return new FreecellModel();
+    }
+    else if (type == GameType.MULTIMOVE ) {
+      return new FreecellModelMultiMove();
+    }
+    else {
+      throw new IllegalArgumentException("Invalid Type");
+    }
+  }
+
+}
