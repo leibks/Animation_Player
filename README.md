@@ -1,13 +1,13 @@
 "# Java_object_oreinted_design_MVC" 
 
-Easy Animator                                                    October-November 2017
+Animation of Shapes                                                    October-November 2017
 	Developed Java Swing (GUI) programming of animation player for users to select shapes, 
 pause, restart and loop of animation; control speed of playing by playback progress bar; and output SVG file
 	Applied model-view-controller (MVC) architecture, principles of object-oriented programming,
  Java design patterns, and listener-event models. Utilized JUnit Test Framework to do unit tests
 
 You can download the hw09.jar file in resource and run it in command line
-It will show you the visual windows to run the easy animator
+It will show you the visual windows to run the program
 
 Jar command samples :
 
